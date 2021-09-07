@@ -1,3 +1,5 @@
+This is Calvium's fork of gts
+
 # gts
 > Google TypeScript Style
 
