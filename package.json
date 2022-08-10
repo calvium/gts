@@ -3,7 +3,6 @@
   "version": "4.0.0",
   "description": "Google TypeScript Style (Calvium fork)",
   "repository": "calvium/gts",
-  "name": "gts",
   "description": "Google TypeScript Style",
   "main": "build/src/index.js",
   "bin": {
